@@ -4,4 +4,4 @@ version: v1.0.0
 website_url: https://my.arubacloud.com
 documentation_url: https://kb.cloud.it/cmp/container/kubernetes.aspx
 type: hosted
-description: 'Aruba Cloud Managed Kubernetes solution'
+description: 'Aruba Managed Kubernetes: the easiest way to manage your kubernetes clusters'
