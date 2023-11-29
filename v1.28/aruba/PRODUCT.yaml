@@ -5,3 +5,4 @@ website_url: https://my.arubacloud.com
 documentation_url: https://kb.cloud.it/cmp/container/kubernetes.aspx
 type: hosted
 description: 'Aruba Managed Kubernetes: the easiest way to manage your kubernetes clusters'
+contact_email_address: 'simone.roma@staff.aruba.it'
